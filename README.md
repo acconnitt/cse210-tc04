@@ -37,6 +37,6 @@ root                    (project root folder)
 ---
 * TODO: Add your names and emails here
 
-Alex Giraldo - acconnitt@gmail.com
+Alex Giraldo
 Mark Vagil - markvagil@byui.edu
 Benjamin LeBeau - Benjamin.ja.lebeau@gmail.com
